@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "三文小説 (ALBUM ver.)",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-24T05:13:13.047521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三文小説",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_三文小説_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三文小説",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_三文小説_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三文小説 (ALBUM ver.)",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_三文小説_(ALBUM_ver.)_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三文小説",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_三文小説_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "三文小説 - Sanmon Shosetsu",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_三文小説_-_Sanmon_Shosetsu_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "King Gnu - 三文小説",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_King_Gnu_-_三文小説_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三文小説",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_三文小説_King_Gnu.txt"
+    }
+  ]
+}
